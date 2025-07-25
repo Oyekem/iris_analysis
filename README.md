@@ -1,4 +1,6 @@
-** Iris Flower Dataset Analysis – SQL & Power BI Report **
+# Iris Flower Dataset Analysis – SQL & Power BI Report 
+
+
 📌 Project Overview
 This project investigates the Iris flower dataset using SQL and Power BI to uncover patterns between petal and sepal features across different species. The goal is to build analytical clarity through structured data querying and interactive visualization—demonstrating end-to-end data analysis capabilities.
 
